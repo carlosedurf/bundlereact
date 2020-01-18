@@ -1,0 +1,19 @@
+{
+  "name": "bundle",
+  "version": "1.0.0",
+  "description": "bundle ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosedurf/bundlereact.git"
+  },
+  "author": "Carlos Eduardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosedurf/bundlereact/issues"
+  },
+  "homepage": "https://github.com/carlosedurf/bundlereact#readme"
+}
